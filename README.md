@@ -17,17 +17,16 @@ apt-get install -y nodejs
 npm i -g pm2
 ```
 
-3. Download source code & unzip
+3. Download source code
 
 ```bash
-git clone
-unzip
+git clone https://github.com/dhikaid/stb-discordjs-uptime.git
 ```
 
 4. Masuk kedalam folder
 
 ```bash
-cd
+cd stb-discordjs-uptime
 ```
 
 5. Ubah env.example menjadi .env
