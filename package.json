@@ -1,0 +1,16 @@
+{
+  "name": "stb-bot-discord-nodejs",
+  "version": "1.0.0",
+  "description": "Uptime STB on Discord BOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DhikaiD",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "ping": "^0.4.4"
+  }
+}
